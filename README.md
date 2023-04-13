@@ -1,7 +1,7 @@
 # Sending-Emails
 ### When we need to send an email to more than one person, it requires a lot of time and effort
 ### So we solve this problem by:
-- Collect all eamils in Excel file 
+- Collect all emils in Excel file 
 - import excel file using pandas 
 - import importanat libraries
    1. smtplib to connect the smtp server to send email
